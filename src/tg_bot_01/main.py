@@ -1,6 +1,5 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
-from config import TOKEN
 from bot_commands import *
 
 
